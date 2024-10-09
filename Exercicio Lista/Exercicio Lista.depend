@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1728477484 source:e:\algoritmo2\exercicio lista\main.cpp
+	<cstdio>
+	<cstdlib>
+	"Lista.h"
+	<string>
+	<iostream>
+
+1728477520 e:\algoritmo2\exercicio lista\lista.h
+	<string>
+	<iostream>
+
+1728477518 source:e:\algoritmo2\exercicio lista\lista.cpp
+	<cstdio>
+	<cstdlib>
+	"Lista.h"
+	<string>
+	<iostream>
+
